@@ -31,7 +31,10 @@ Stop.
 
 
 
-<img width="1917" height="1142" alt="image" src="https://github.com/user-attachments/assets/64f5b49d-28ed-4696-b5d0-2bb7c8c13250" />
+<img width="1917" height="1125" alt="image" src="https://github.com/user-attachments/assets/0a8827de-3959-42fd-9fbe-a0cfd483e7ce" />
+
+
+
 
 
 
